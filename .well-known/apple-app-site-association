@@ -2,13 +2,18 @@
     "applinks": {
         "apps": [],
         "details": [
-        {
-            "appID": "76MZFC3AP4.org.zengqiang.MindDraft",
-            "paths": ["/MindDraft/*"]
-        },
-        {
-            "appID": "76MZFC3AP4.org.zengqiang.NFCMaster",
-            "paths": ["/NFCMaster/*"]
-        }]
+            {
+                "appID": "76MZFC3AP4.org.zengqiang.cnblogs",
+                "paths": ["/cnblogs/*"]
+            },
+            {
+                "appID": "76MZFC3AP4.org.zengqiang.MindDraft",
+                "paths": ["/MindDraft/*"]
+            },
+            {
+                "appID": "76MZFC3AP4.org.zengqiang.NFCMaster",
+                "paths": ["/NFCMaster/*"]
+            }
+        ]
     }
 }
