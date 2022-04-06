@@ -7,6 +7,10 @@
                 "paths": ["/NFCMaster/*"]
             },
             {
+                "appID": "76MZFC3AP4.org.zengqiang.iBluetooth",
+                "paths": ["/iBluetooth/*"]
+            },
+            {
                 "appID": "76MZFC3AP4.org.zengqiang.iSMS",
                 "paths": ["/iSMS/*"]
             },
