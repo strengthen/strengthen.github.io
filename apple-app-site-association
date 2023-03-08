@@ -33,6 +33,10 @@
             {
                 "appID": "76MZFC3AP4.org.zengqiang.iBluetooth",
                 "paths": ["/iBluetooth/*"]
+            },
+            {
+                "appID": "76MZFC3AP4.org.zengqiang.iChatGPT",
+                "paths": ["/iChatbot/*"]
             }
         ]
     }
