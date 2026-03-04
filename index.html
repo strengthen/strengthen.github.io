@@ -1,18 +1,15 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title></title>
-        <style media="screen">
-            * {
-                margin: 0;
-                padding: 0;
-            }
-        </style>
-    </head>
-    <body>
-    </body>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <!-- 方案一：HTML 原生跳转，浏览器解析到这里会立刻执行，无需等待 JS 引擎 -->
+    <meta http-equiv="refresh" content="0;url=https://www.cnblogs.com/strengthen">
+    <!-- 方案二：JS 替换跳转，兜底并覆盖历史记录 -->
     <script type="text/javascript">
-        window.location.href="https://www.cnblogs.com/strengthen";
+        window.location.replace("https://www.cnblogs.com/strengthen");
     </script>
+</head>
+<body>
+</body>
 </html>
