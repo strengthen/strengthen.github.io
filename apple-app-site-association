@@ -37,6 +37,22 @@
             {
                 "appID": "76MZFC3AP4.org.zengqiang.iChatGPT",
                 "paths": ["/iChatbot/*"]
+            },
+            {
+                "appID": "76MZFC3AP4.org.zengqiang.iPicture",
+                "paths": ["/iPicture/*"]
+            },
+            {
+                "appID": "76MZFC3AP4.org.zengqiang.iCapture",
+                "paths": ["/iCapture/*"]
+            },
+            {
+                "appID": "76MZFC3AP4.org.zengqiang.iConsole",
+                "paths": ["/iConsole/*"]
+            },
+            {
+                "appID": "76MZFC3AP4.org.zengqiang.iROM",
+                "paths": ["/iROM/*"]
             }
         ]
     }
